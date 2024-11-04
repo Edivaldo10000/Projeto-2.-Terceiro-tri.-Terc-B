@@ -1,4 +1,4 @@
-import { getCSS, criarGrafico } from "./common"
+import { getCSS, criarGrafico } from "./common.js"
 
 
 async function redesFavoritasMundo() {
